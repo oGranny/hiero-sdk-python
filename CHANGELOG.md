@@ -1,4 +1,4 @@
-# Changelog
+﻿# Changelog
 
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org).
@@ -39,6 +39,8 @@ This changelog is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.
 - chore: add ndpvt-web to spam list (#1945)
 - chore: update bot-community-calls workflow to use self hosted runner (#1942)
 - chore(ci): update bot-inactivity-unassign workflow to use hl-sdk-py-lin-md runner
+- chore: update bot-gfi-candidate-notification workflow to use hl-sdk-py-lin-md runner (`#1966`)
+- chore: Added check for the discussion label in the inactivity bot (`#1583`)
 ## [0.2.1] - 2026-03-05
 
 ### Added
